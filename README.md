@@ -1,1 +1,1 @@
-this is pos system for salon 
+this is pos system for multiple salons
